@@ -5,4 +5,5 @@ echo no sleep
 echo v2
 echo v3
 
-docker ps -a
+# no docker installed :(
+#docker ps -a
