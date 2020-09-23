@@ -1,6 +1,6 @@
 #/bin/sh
 
 echo Mine Crypto :D
-sleep 60
+echo no sleep
 echo v2
 echo v3
