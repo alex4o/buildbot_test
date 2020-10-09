@@ -2,8 +2,8 @@
 
 echo Mine Crypto :D
 echo no sleep
-echo v2
-echo v3
+sleep 60
+echo Ready !
 
 # no docker installed :(
-#docker ps -a
+# docker ps -a
