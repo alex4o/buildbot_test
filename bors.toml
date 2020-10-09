@@ -1,4 +1,4 @@
-status = ["buildbot/build-script"]
+status = ["buildbot/cheri-build-script"]
 
 timeout_sec = 600 # 10 minutes
 
