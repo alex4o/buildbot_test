@@ -5,7 +5,7 @@ set -e
 echo $USER
 echo $PWD
 
-~/${HOME}/cheri/output/sdk/bin/riscv64-unknown-freebsd13-clang --version
+${HOME}/cheri/output/sdk/bin/riscv64-unknown-freebsd13-clang --version
 
 echo Mine Crypto :D
 echo no sleep
